@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RandomQuoteMachine/static/css/main.75241805.css",
+    "main.js": "/RandomQuoteMachine/static/js/main.9b65a404.js",
+    "static/media/fa-solid-900.ttf": "/RandomQuoteMachine/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/RandomQuoteMachine/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/RandomQuoteMachine/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/RandomQuoteMachine/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/RandomQuoteMachine/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/RandomQuoteMachine/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/RandomQuoteMachine/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/RandomQuoteMachine/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/RandomQuoteMachine/index.html",
+    "main.75241805.css.map": "/RandomQuoteMachine/static/css/main.75241805.css.map",
+    "main.9b65a404.js.map": "/RandomQuoteMachine/static/js/main.9b65a404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75241805.css",
+    "static/js/main.9b65a404.js"
+  ]
+}
